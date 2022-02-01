@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Azotea
+  - 5B
+  - Cafe
+  - Entrada
+  - Story_JUN_1
+  - Story_JUN_2
+  - Story_JUN_3
+  - Story_MARIE_1
+  - Story_MARIE_2
+  - Story_MARIE_3
+  - Story_MIKU_1
+  - Story_MIKU_2
+  - Story_MIKU_3
+  - Story_TARO_1
+  - Story_TARO_2
+  - Story_TARO_3
+  - 1
+  - 2
+  - 3
+  - Events
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Pprogresing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

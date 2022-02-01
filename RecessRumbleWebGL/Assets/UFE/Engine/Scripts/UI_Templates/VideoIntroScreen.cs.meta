@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fbabc2c48cfa7413aac4a3e85608625c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firstSelectableGameObject: {instanceID: 0}
+  - videoClip: {fileID: 32900000, guid: 98fa3b14ac4376f44aa87405357db83b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

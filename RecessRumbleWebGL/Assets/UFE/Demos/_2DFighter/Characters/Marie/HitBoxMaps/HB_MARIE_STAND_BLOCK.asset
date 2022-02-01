@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1422231745, guid: 290947d1480294243a72173919bf47d1, type: 3}
+  m_Name: HB_MARIE_STAND_BLOCK
+  m_EditorClassIdentifier: 
+  clip: {fileID: 7400000, guid: 4960caf995cfedc45b18b1ecb487d79a, type: 2}
+  speed:
+    _serializedValue: 4294967296
+  preview: {fileID: 8012443432642201050, guid: ee02218ee7d0f8f4aa11088b3471f3ac, type: 3}
+  totalFrames: 5
+  customHitBoxes:
+  - name: Upper Body
+    activeFrames:
+    - active: 1
+      position:
+        x:
+          _serializedValue: -6828998144
+        y:
+          _serializedValue: 12970801152
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 10694468608
+      cubeHeight:
+        _serializedValue: 12927851520
+      radius:
+        _serializedValue: 2147483648
+      range: 5
+    - active: 1
+      position:
+        x:
+          _serializedValue: -6828998144
+        y:
+          _serializedValue: 12970801152
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 10694468608
+      cubeHeight:
+        _serializedValue: 12927851520
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -6828998144
+        y:
+          _serializedValue: 12970801152
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 10694468608
+      cubeHeight:
+        _serializedValue: 12927851520
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -6828998144
+        y:
+          _serializedValue: 12970801152
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 10694468608
+      cubeHeight:
+        _serializedValue: 12927851520
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -6828998144
+        y:
+          _serializedValue: 12970801152
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 10694468608
+      cubeHeight:
+        _serializedValue: 12927851520
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    shape: 1
+    collisionType: 0
+    hitBoxType: 0
+  - name: Lower Body
+    activeFrames:
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4853313024
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9534827520
+      cubeHeight:
+        _serializedValue: 14216341504
+      radius:
+        _serializedValue: 2147483648
+      range: 5
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4853313024
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9534827520
+      cubeHeight:
+        _serializedValue: 14216341504
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4853313024
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9534827520
+      cubeHeight:
+        _serializedValue: 14216341504
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4853313024
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9534827520
+      cubeHeight:
+        _serializedValue: 14216341504
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4853313024
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9534827520
+      cubeHeight:
+        _serializedValue: 14216341504
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    shape: 1
+    collisionType: 0
+    hitBoxType: 1
+  - name: Throw Collider
+    activeFrames:
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5153960960
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8246337024
+      cubeHeight:
+        _serializedValue: 25555054592
+      radius:
+        _serializedValue: 2147483648
+      range: 5
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5153960960
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8246337024
+      cubeHeight:
+        _serializedValue: 25555054592
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5153960960
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8246337024
+      cubeHeight:
+        _serializedValue: 25555054592
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5153960960
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8246337024
+      cubeHeight:
+        _serializedValue: 25555054592
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5153960960
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8246337024
+      cubeHeight:
+        _serializedValue: 25555054592
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    shape: 1
+    collisionType: 3
+    hitBoxType: 1

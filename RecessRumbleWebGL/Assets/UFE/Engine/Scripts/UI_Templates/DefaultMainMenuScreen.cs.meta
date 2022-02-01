@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5f0141428f18a4948956e441f266d5a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firstSelectableGameObject: {instanceID: 0}
+  - onLoadSound: {instanceID: 0}
+  - music: {fileID: 8300000, guid: dffbccc03e5b50643bd30fbd48823535, type: 3}
+  - selectSound: {fileID: 8300000, guid: 1b92c5dac488cbb47aa1629e573c1c69, type: 3}
+  - cancelSound: {fileID: 8300000, guid: 1b92c5dac488cbb47aa1629e573c1c69, type: 3}
+  - moveCursorSound: {instanceID: 0}
+  - buttonNetwork: {instanceID: 0}
+  - buttonBluetooth: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,945 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1422231745, guid: 290947d1480294243a72173919bf47d1, type: 3}
+  m_Name: HB_MARIE_STAND_HK
+  m_EditorClassIdentifier: 
+  clip: {fileID: 7400000, guid: 0b999b99420441c41af9e5f9b4a702db, type: 2}
+  speed:
+    _serializedValue: 4294967296
+  preview: {fileID: 8012443432642201050, guid: ee02218ee7d0f8f4aa11088b3471f3ac, type: 3}
+  totalFrames: 12
+  customHitBoxes:
+  - name: Upper Body
+    activeFrames:
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5282809856
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9105330176
+      cubeHeight:
+        _serializedValue: 9792525312
+      radius:
+        _serializedValue: 2147483648
+      range: 2
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5282809856
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9105330176
+      cubeHeight:
+        _serializedValue: 9792525312
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5282809856
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 7988639232
+      cubeHeight:
+        _serializedValue: 8375186432
+      radius:
+        _serializedValue: 2147483648
+      range: 4
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5282809856
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 7988639232
+      cubeHeight:
+        _serializedValue: 8375186432
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5282809856
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 7988639232
+      cubeHeight:
+        _serializedValue: 8375186432
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5282809856
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 7988639232
+      cubeHeight:
+        _serializedValue: 8375186432
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -7000796672
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8332236800
+      cubeHeight:
+        _serializedValue: 7516192768
+      radius:
+        _serializedValue: 2147483648
+      range: 6
+    - active: 1
+      position:
+        x:
+          _serializedValue: -7000796672
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8332236800
+      cubeHeight:
+        _serializedValue: 7516192768
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -7000796672
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8332236800
+      cubeHeight:
+        _serializedValue: 7516192768
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -7000796672
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8332236800
+      cubeHeight:
+        _serializedValue: 7516192768
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -7000796672
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8332236800
+      cubeHeight:
+        _serializedValue: 7516192768
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -7000796672
+        y:
+          _serializedValue: 17652316160
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8332236800
+      cubeHeight:
+        _serializedValue: 7516192768
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    shape: 1
+    collisionType: 0
+    hitBoxType: 0
+  - name: Lower Body
+    activeFrames:
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8375186432
+      cubeHeight:
+        _serializedValue: 18640158720
+      radius:
+        _serializedValue: 2147483648
+      range: 2
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 8375186432
+      cubeHeight:
+        _serializedValue: 18640158720
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 1030792128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9405978624
+      cubeHeight:
+        _serializedValue: 17738215424
+      radius:
+        _serializedValue: 2147483648
+      range: 4
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 1030792128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9405978624
+      cubeHeight:
+        _serializedValue: 17738215424
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 1030792128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9405978624
+      cubeHeight:
+        _serializedValue: 17738215424
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 1030792128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 9405978624
+      cubeHeight:
+        _serializedValue: 17738215424
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 11166914560
+      cubeHeight:
+        _serializedValue: 18640158720
+      radius:
+        _serializedValue: 2147483648
+      range: 6
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 11166914560
+      cubeHeight:
+        _serializedValue: 18640158720
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 11166914560
+      cubeHeight:
+        _serializedValue: 18640158720
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 11166914560
+      cubeHeight:
+        _serializedValue: 18640158720
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 11166914560
+      cubeHeight:
+        _serializedValue: 18640158720
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -5068061184
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 11166914560
+      cubeHeight:
+        _serializedValue: 18640158720
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    shape: 1
+    collisionType: 0
+    hitBoxType: 1
+  - name: Hit
+    activeFrames:
+    - active: 0
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 0
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 0
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 0
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 0
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 0
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 4
+    - active: 1
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 0
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 0
+      position:
+        x:
+          _serializedValue: 2104534016
+        y:
+          _serializedValue: 16836272128
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 13400297472
+      cubeHeight:
+        _serializedValue: 5841155584
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    shape: 1
+    collisionType: 1
+    hitBoxType: 1
+  - name: Throw Collider
+    activeFrames:
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 12
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -4037269248
+        y:
+          _serializedValue: 0
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 6700148736
+      cubeHeight:
+        _serializedValue: 26113400832
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    shape: 1
+    collisionType: 3
+    hitBoxType: 1
+  - name: BlockArea
+    activeFrames:
+    - active: 0
+      position:
+        x:
+          _serializedValue: 1503238528
+        y:
+          _serializedValue: 16106127360
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 14559939584
+      cubeHeight:
+        _serializedValue: 7387343872
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 0
+      position:
+        x:
+          _serializedValue: 1503238528
+        y:
+          _serializedValue: 16106127360
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 14559939584
+      cubeHeight:
+        _serializedValue: 7387343872
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 0
+      position:
+        x:
+          _serializedValue: 1503238528
+        y:
+          _serializedValue: 16106127360
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 14559939584
+      cubeHeight:
+        _serializedValue: 7387343872
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 0
+      position:
+        x:
+          _serializedValue: 1503238528
+        y:
+          _serializedValue: 16106127360
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 14559939584
+      cubeHeight:
+        _serializedValue: 7387343872
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -10136122368
+        y:
+          _serializedValue: 300647712
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 36464271360
+      cubeHeight:
+        _serializedValue: 28518582272
+      radius:
+        _serializedValue: 2147483648
+      range: 8
+    - active: 1
+      position:
+        x:
+          _serializedValue: -10136122368
+        y:
+          _serializedValue: 300647712
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 36464271360
+      cubeHeight:
+        _serializedValue: 28518582272
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -10136122368
+        y:
+          _serializedValue: 300647712
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 36464271360
+      cubeHeight:
+        _serializedValue: 28518582272
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -10136122368
+        y:
+          _serializedValue: 300647712
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 36464271360
+      cubeHeight:
+        _serializedValue: 28518582272
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -10136122368
+        y:
+          _serializedValue: 300647712
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 36464271360
+      cubeHeight:
+        _serializedValue: 28518582272
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -10136122368
+        y:
+          _serializedValue: 300647712
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 36464271360
+      cubeHeight:
+        _serializedValue: 28518582272
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -10136122368
+        y:
+          _serializedValue: 300647712
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 36464271360
+      cubeHeight:
+        _serializedValue: 28518582272
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    - active: 1
+      position:
+        x:
+          _serializedValue: -10136122368
+        y:
+          _serializedValue: 300647712
+        z:
+          _serializedValue: 0
+      cubeWidth:
+        _serializedValue: 36464271360
+      cubeHeight:
+        _serializedValue: 28518582272
+      radius:
+        _serializedValue: 2147483648
+      range: 0
+    shape: 1
+    collisionType: 2
+    hitBoxType: 0

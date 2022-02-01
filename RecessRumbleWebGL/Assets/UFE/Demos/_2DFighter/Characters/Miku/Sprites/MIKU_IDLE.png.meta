@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 2a380b780b64cc548872539c24ef81d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3930344167003855181
+    second: MIKU_IDLE_0
+  - first:
+      213: -5038057826383478835
+    second: MIKU_IDLE_1
+  - first:
+      213: 8748611865203016663
+    second: MIKU_IDLE_2
+  - first:
+      213: -6790261371908357804
+    second: MIKU_IDLE_3
+  - first:
+      213: 6374080875817602381
+    second: MIKU_IDLE_4
+  - first:
+      213: 3686152862361507680
+    second: MIKU_IDLE_5
+  - first:
+      213: -3231012421235045258
+    second: MIKU_IDLE_6
+  - first:
+      213: 3107809423231366049
+    second: MIKU_IDLE_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MIKU_IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 379
+        width: 753
+        height: 1599
+      alignment: 9
+      pivot: {x: 0.40063784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d491b4f22336b8630800000000000000
+      internalID: 3930344167003855181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 377
+        width: 765
+        height: 1577
+      alignment: 9
+      pivot: {x: 0.37713552, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf39848919351ab0800000000000000
+      internalID: -5038057826383478835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 379
+        width: 793
+        height: 1557
+      alignment: 9
+      pivot: {x: 0.36665797, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d38137a320596970800000000000000
+      internalID: 8748611865203016663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_IDLE_3
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 381
+        width: 808
+        height: 1575
+      alignment: 9
+      pivot: {x: 0.3642862, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518853324524c1a0800000000000000
+      internalID: -6790261371908357804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 4716
+        y: 359
+        width: 715
+        height: 1586
+      alignment: 9
+      pivot: {x: 0.43344897, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d08b409c8457850800000000000000
+      internalID: 6374080875817602381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 381
+        width: 715
+        height: 1599
+      alignment: 9
+      pivot: {x: 0.42353994, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d8dc8f78d72330800000000000000
+      internalID: 3686152862361507680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 6925
+        y: 381
+        width: 712
+        height: 1601
+      alignment: 9
+      pivot: {x: 0.43207747, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c096f42532923d0800000000000000
+      internalID: -3231012421235045258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 8041
+        y: 381
+        width: 710
+        height: 1599
+      alignment: 9
+      pivot: {x: 0.43188545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3315d5438212b20800000000000000
+      internalID: 3107809423231366049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e5dc033124be75458859438cd4afb32
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

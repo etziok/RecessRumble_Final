@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 309c04f16abad2f469d1852b2a399113
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5529919640043228117
+    second: MIKU_SUPER_0
+  - first:
+      213: 8153674434572119101
+    second: MIKU_SUPER_1
+  - first:
+      213: -929283476775019395
+    second: MIKU_SUPER_2
+  - first:
+      213: 1591423668510955986
+    second: MIKU_SUPER_3
+  - first:
+      213: -792034268712151951
+    second: MIKU_SUPER_4
+  - first:
+      213: -539085417343013728
+    second: MIKU_SUPER_5
+  - first:
+      213: -8403759307721429553
+    second: MIKU_SUPER_6
+  - first:
+      213: -2270862969626615496
+    second: MIKU_SUPER_7
+  - first:
+      213: -8627977303308816054
+    second: MIKU_SUPER_8
+  - first:
+      213: -7575972188889946193
+    second: MIKU_SUPER_9
+  - first:
+      213: -6141108131606010877
+    second: MIKU_SUPER_10
+  - first:
+      213: 3277435333770784043
+    second: MIKU_SUPER_11
+  - first:
+      213: 103193628355848953
+    second: MIKU_SUPER_12
+  - first:
+      213: 6702936173397153397
+    second: MIKU_SUPER_13
+  - first:
+      213: -8931682909388571094
+    second: MIKU_SUPER_14
+  - first:
+      213: 931952277193832982
+    second: MIKU_SUPER_15
+  - first:
+      213: 1186350754982460209
+    second: MIKU_SUPER_16
+  - first:
+      213: 6041508804559556399
+    second: MIKU_SUPER_17
+  - first:
+      213: -6303554830889959534
+    second: MIKU_SUPER_18
+  - first:
+      213: 4053666820106185143
+    second: MIKU_SUPER_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MIKU_SUPER_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 8716
+        width: 243
+        height: 273
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ceadeb2bba72170800000000000000
+      internalID: 8153674434572119101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_2
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 8615
+        width: 230
+        height: 476
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c5f27f9958a13f0800000000000000
+      internalID: -929283476775019395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_3
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 8567
+        width: 229
+        height: 571
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99eb0156fd51610800000000000000
+      internalID: 1591423668510955986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_4
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 8589
+        width: 229
+        height: 522
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174d97b67012205f0800000000000000
+      internalID: -792034268712151951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_5
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 8589
+        width: 230
+        height: 522
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2dab4ba8c488f0800000000000000
+      internalID: -539085417343013728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_6
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 8589
+        width: 265
+        height: 522
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcda1654f69df5b80800000000000000
+      internalID: -8403759307721429553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_7
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 8162
+        width: 716
+        height: 1310
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83121d129264c70e0800000000000000
+      internalID: -2270862969626615496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_8
+      rect:
+        serializedVersion: 2
+        x: 4378
+        y: 8187
+        width: 2905
+        height: 1285
+      alignment: 9
+      pivot: {x: 0.10077268, y: 0.499066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41352a0b54434880800000000000000
+      internalID: -8627977303308816054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6778
+        width: 8000
+        height: 1298
+      alignment: 9
+      pivot: {x: 0.03649002, y: 0.49930707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7e9f4fe6dbcd690800000000000000
+      internalID: -7575972188889946193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5363
+        width: 8000
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.036407407, y: 0.49906328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3046c58f0b666caa0800000000000000
+      internalID: -6141108131606010877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3970
+        width: 8000
+        height: 1298
+      alignment: 9
+      pivot: {x: 0.037429933, y: 0.5005654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2da8bb421acb7d20800000000000000
+      internalID: 3277435333770784043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2970
+        width: 8000
+        height: 911
+      alignment: 9
+      pivot: {x: 0.036292136, y: 0.45383573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faeb39ee0e9e6100800000000000000
+      internalID: 103193628355848953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2341
+        width: 8000
+        height: 563
+      alignment: 9
+      pivot: {x: 0.03640619, y: 0.44942734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576147f9fec950d50800000000000000
+      internalID: 6702936173397153397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1670
+        width: 8000
+        height: 522
+      alignment: 9
+      pivot: {x: 0.03623804, y: 0.49348164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e777b47b94c0480800000000000000
+      internalID: -8931682909388571094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 960
+        width: 7714
+        height: 570
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a31cd88a5feec00800000000000000
+      internalID: 931952277193832982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 160
+        width: 230
+        height: 571
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bfeb1e9b3c67010800000000000000
+      internalID: 1186350754982460209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_17
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 208
+        width: 230
+        height: 476
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fca2b9f30c7d350800000000000000
+      internalID: 6041508804559556399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_SUPER_18
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 309
+        width: 243
+        height: 273
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3b9a67464588a0800000000000000
+      internalID: -6303554830889959534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 46a846c90ec084042b80055d7a718e5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

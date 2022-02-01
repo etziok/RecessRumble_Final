@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 8016761b12d7df643a18f8f17da3802e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6987789876607341009
+    second: JUN_STANDING_HK_2
+  - first:
+      213: -3748623815664938902
+    second: JUN_STANDING_HK_3
+  - first:
+      213: 3359379297190009783
+    second: JUN_STANDING_HK_4
+  - first:
+      213: 4868240444414207600
+    second: JUN_STANDING_HK_5
+  - first:
+      213: 850689426007819276
+    second: JUN_STANDING_HK_6
+  - first:
+      213: -6600990197338402797
+    second: JUN_STANDING_HK_7
+  - first:
+      213: 2527155975709222830
+    second: JUN_STANDING_HK_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JUN_STANDING_HK_2
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 185
+        width: 1158
+        height: 1635
+      alignment: 9
+      pivot: {x: 0.5312371, y: -0.0004609181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d15040bedd99f060800000000000000
+      internalID: 6987789876607341009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_STANDING_HK_3
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 215
+        width: 1083
+        height: 1529
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60d8be20863afbc0800000000000000
+      internalID: -3748623815664938902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_STANDING_HK_4
+      rect:
+        serializedVersion: 2
+        x: 5357
+        y: 264
+        width: 1313
+        height: 1483
+      alignment: 9
+      pivot: {x: 0.39193404, y: 0.000000041156547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbdfca0ca9ee9e20800000000000000
+      internalID: 3359379297190009783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_STANDING_HK_5
+      rect:
+        serializedVersion: 2
+        x: 6956
+        y: 265
+        width: 1364
+        height: 1349
+      alignment: 9
+      pivot: {x: 0.39281833, y: -0.0005586142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076af7224e67f8340800000000000000
+      internalID: 4868240444414207600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_STANDING_HK_6
+      rect:
+        serializedVersion: 2
+        x: 8622
+        y: 274
+        width: 1216
+        height: 1428
+      alignment: 9
+      pivot: {x: 0.35105413, y: -0.000000042741707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04806b96814ecb00800000000000000
+      internalID: 850689426007819276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_STANDING_HK_7
+      rect:
+        serializedVersion: 2
+        x: 10075
+        y: 269
+        width: 865
+        height: 1486
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3101fc993629464a0800000000000000
+      internalID: -6600990197338402797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_STANDING_HK_8
+      rect:
+        serializedVersion: 2
+        x: 11222
+        y: 276
+        width: 774
+        height: 1476
+      alignment: 9
+      pivot: {x: 0.75658864, y: -0.00071943743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7672078f2421320800000000000000
+      internalID: 2527155975709222830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ade8470ea37151646ad3324f578612ea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 11324e8bff11a1246b37eef1bf3d4b76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2986971113638675478
+    second: JUN_SPECIAL_1_0
+  - first:
+      213: 6968486736245282470
+    second: JUN_SPECIAL_1_1
+  - first:
+      213: 5664917089941705114
+    second: JUN_SPECIAL_1_2
+  - first:
+      213: -9052426765121527423
+    second: JUN_SPECIAL_1_3
+  - first:
+      213: -1435233851199228054
+    second: JUN_SPECIAL_1_4
+  - first:
+      213: -8053737075573422694
+    second: JUN_SPECIAL_1_10
+  - first:
+      213: -1408720390884823541
+    second: JUN_SPECIAL_1_12
+  - first:
+      213: 2497119341016025603
+    second: JUN_SPECIAL_1_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JUN_SPECIAL_1_0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2119
+        width: 629
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb63909952c86d0800000000000000
+      internalID: -2986971113638675478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_SPECIAL_1_1
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2179
+        width: 1175
+        height: 1166
+      alignment: 9
+      pivot: {x: 0.39662433, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6dbe714c905b060800000000000000
+      internalID: 6968486736245282470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_SPECIAL_1_2
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2179
+        width: 1241
+        height: 1369
+      alignment: 9
+      pivot: {x: 0.3369664, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91d30c4414dd9e40800000000000000
+      internalID: 5664917089941705114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_SPECIAL_1_3
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 2053
+        width: 1260
+        height: 1613
+      alignment: 9
+      pivot: {x: 0.35233986, y: 0.0015692809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18161b5a1d15f5280800000000000000
+      internalID: -9052426765121527423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_SPECIAL_1_4
+      rect:
+        serializedVersion: 2
+        x: 5715
+        y: 2049
+        width: 1789
+        height: 1579
+      alignment: 9
+      pivot: {x: 0.35755888, y: -0.0010308331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6777a1aa66051ce0800000000000000
+      internalID: -1435233851199228054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_SPECIAL_1_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 253
+        width: 2110
+        height: 1641
+      alignment: 9
+      pivot: {x: 0.4609785, y: 0.00067177723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a958d00ecc06b3090800000000000000
+      internalID: -8053737075573422694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_SPECIAL_1_12
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 153
+        width: 708
+        height: 851
+      alignment: 9
+      pivot: {x: 0.46493822, y: 0.0010288118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee579a448337ce0800000000000000
+      internalID: -1408720390884823541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_SPECIAL_1_13
+      rect:
+        serializedVersion: 2
+        x: 4587
+        y: 283
+        width: 619
+        height: 1027
+      alignment: 9
+      pivot: {x: 0.31495717, y: -0.0017704653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a84037fcc87a220800000000000000
+      internalID: 2497119341016025603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 923ca720301932f4bb0d15c73ecbc906
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: d7fcba0699e72f4419f36d872a526757
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1146011160453073346
+    second: Capa 2_0
+  - first:
+      213: 8608209319775395183
+    second: Capa 2_2
+  - first:
+      213: -6788238814918720941
+    second: Capa 2_3
+  - first:
+      213: -1264978936729261864
+    second: Capa 2_4
+  - first:
+      213: -7014316916503820492
+    second: Capa 2_5
+  - first:
+      213: -4881873224267432640
+    second: Capa 2_6
+  - first:
+      213: 2732941223646011611
+    second: Capa 2_7
+  - first:
+      213: 7243045405538831090
+    second: Capa 2_8
+  - first:
+      213: -7012661905618639713
+    second: Capa 2_9
+  - first:
+      213: -506119529613334891
+    second: Capa 2_10
+  - first:
+      213: 5278051238789009685
+    second: Capa 2_11
+  - first:
+      213: -2148711368927431098
+    second: Capa 2_12
+  - first:
+      213: -8516285299605906245
+    second: Capa 2_13
+  - first:
+      213: 3526967898990973214
+    second: Capa 2_14
+  - first:
+      213: -6570306292517740692
+    second: JUN_JUMP_HIT_FALL_2
+  - first:
+      213: 7229581922895967588
+    second: JUN_JUMP_HIT_FALL_8
+  - first:
+      213: -2845028314666773590
+    second: JUN_JUMP_HIT_FALL_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JUN_JUMP_HIT_FALL_2
+      rect:
+        serializedVersion: 2
+        x: 11459
+        y: 3415
+        width: 1598
+        height: 842
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f57f8ec3591d4a0800000000000000
+      internalID: -6570306292517740692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_JUMP_HIT_FALL_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1075
+        width: 1392
+        height: 1229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465bcc47472a45460800000000000000
+      internalID: 7229581922895967588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_JUMP_HIT_FALL_9
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 778
+        width: 718
+        height: 1653
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3db5842dd6488d0800000000000000
+      internalID: -2845028314666773590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 38cc3fbcc3064de4b8e9bacfbc9e97da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

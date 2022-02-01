@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: a56da0f0ddb66bf4d9a50e7ebf870fdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2136379887451155079
+    second: MARIE_SPECIAL_1_P_0
+  - first:
+      213: 6918058025931064188
+    second: MARIE_SPECIAL_1_P_4
+  - first:
+      213: 5579676578820437910
+    second: MARIE_SPECIAL_1_P_1
+  - first:
+      213: -905927375727676449
+    second: MARIE_SPECIAL_1_P_2
+  - first:
+      213: 3261400561471173519
+    second: MARIE_SPECIAL_1_P_3
+  - first:
+      213: -4387338265178379328
+    second: MARIE_SPECIAL_1_P_1
+  - first:
+      213: -4474576651895358524
+    second: MARIE_SPECIAL_1_P_6
+  - first:
+      213: -365293830534682442
+    second: MARIE_SPECIAL_1_P_7
+  - first:
+      213: 3320312660908575109
+    second: MARIE_SPECIAL_1_P_19
+  - first:
+      213: 1149146813313281817
+    second: MARIE_SPECIAL_1_P_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MARIE_SPECIAL_1_P_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2834
+        width: 985
+        height: 1882
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa0d84032f5ad10800000000000000
+      internalID: 2136379887451155079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARIE_SPECIAL_1_P_4
+      rect:
+        serializedVersion: 2
+        x: 6598
+        y: 2868
+        width: 1069
+        height: 1892
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7349230f11e10060800000000000000
+      internalID: 6918058025931064188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARIE_SPECIAL_1_P_1
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 2846
+        width: 1048
+        height: 1872
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697b82a394efe6d40800000000000000
+      internalID: 5579676578820437910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARIE_SPECIAL_1_P_2
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 2857
+        width: 1080
+        height: 1865
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd333710adf7d63f0800000000000000
+      internalID: -905927375727676449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARIE_SPECIAL_1_P_3
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 2846
+        width: 1076
+        height: 1888
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83bfb0f782d24d20800000000000000
+      internalID: 3261400561471173519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARIE_SPECIAL_1_P_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 403
+        width: 1197
+        height: 1728
+      alignment: 9
+      pivot: {x: 0.41131547, y: 0.49207342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb609ac71b0d13c0800000000000000
+      internalID: -4387338265178379328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARIE_SPECIAL_1_P_6
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 372
+        width: 1000
+        height: 1754
+      alignment: 9
+      pivot: {x: 0.3904204, y: 0.5468558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb358f0e3c17e1c0800000000000000
+      internalID: -4474576651895358524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARIE_SPECIAL_1_P_7
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 372
+        width: 1672
+        height: 1508
+      alignment: 9
+      pivot: {x: 0.46927887, y: 0.6521439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8a65052373eeaf0800000000000000
+      internalID: -365293830534682442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARIE_SPECIAL_1_P_19
+      rect:
+        serializedVersion: 2
+        x: 7493
+        y: 1785
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58900b8f5ce141e20800000000000000
+      internalID: 3320312660908575109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARIE_SPECIAL_1_P_8
+      rect:
+        serializedVersion: 2
+        x: 6269
+        y: 344
+        width: 1620
+        height: 1192
+      alignment: 9
+      pivot: {x: 0.63316965, y: 0.84473526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f6f4230f692ff00800000000000000
+      internalID: 1149146813313281817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 33d076e777ce0e5478b66f9c5d564faa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

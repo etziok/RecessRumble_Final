@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 73eece8a2a5a74e6bb41b5d92c1c603b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firstSelectableGameObject: {instanceID: 0}
+  - selectSound: {fileID: 8300000, guid: 1b92c5dac488cbb47aa1629e573c1c69, type: 3}
+  - cancelSound: {instanceID: 0}
+  - moveCursorSound: {instanceID: 0}
+  - onLoadSound: {instanceID: 0}
+  - music: {instanceID: 0}
+  - namePlayer1: {instanceID: 0}
+  - namePlayer2: {instanceID: 0}
+  - portraitPlayer1: {instanceID: 0}
+  - portraitPlayer2: {instanceID: 0}
+  - background3dPrefab: {instanceID: 0}
+  - hudPlayer1: {instanceID: 0}
+  - hudPlayer2: {instanceID: 0}
+  - hudBothPlayers: {instanceID: 0}
+  - noCharacterSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

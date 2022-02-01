@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 45f3e4bc4560b1e41934ee3d17445111
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -83406670647168394
+    second: Spritesheet_ JUN_super_0
+  - first:
+      213: 4833671706469415705
+    second: Spritesheet_ JUN_super_1
+  - first:
+      213: -8394447162174768783
+    second: Spritesheet_ JUN_super_2
+  - first:
+      213: 3993612915590893637
+    second: Spritesheet_ JUN_super_3
+  - first:
+      213: -452649328893459058
+    second: Spritesheet_ JUN_super_5
+  - first:
+      213: 8649879940783163329
+    second: Spritesheet_ JUN_super_6
+  - first:
+      213: 211240436676775058
+    second: Spritesheet_ JUN_super_19
+  - first:
+      213: 5244838858961133621
+    second: Spritesheet_ JUN_super_20
+  - first:
+      213: 7744588049803988298
+    second: Spritesheet_ JUN_super_23
+  - first:
+      213: -184760986764653841
+    second: Spritesheet_ JUN_super_28
+  - first:
+      213: -829770933676864201
+    second: Spritesheet_ JUN_super_29
+  - first:
+      213: -5460491265230613117
+    second: Spritesheet_ JUN_super_37
+  - first:
+      213: 2876044332935712671
+    second: Spritesheet_ JUN_super_38
+  - first:
+      213: -5515009214484990685
+    second: Spritesheet_ JUN_super_40
+  - first:
+      213: 3984665998956246027
+    second: Spritesheet_ JUN_super_41
+  - first:
+      213: -5137656242964066899
+    second: Spritesheet_ JUN_super_42
+  - first:
+      213: 3995362800693716258
+    second: Spritesheet_ JUN_super_43
+  - first:
+      213: -3552806508558952483
+    second: Spritesheet_ JUN_super_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_0
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 5200
+        width: 803
+        height: 1304
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6727d20331ea7def0800000000000000
+      internalID: -83406670647168394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_1
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 5174
+        width: 906
+        height: 1305
+      alignment: 9
+      pivot: {x: 0.5577507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b37f0aec6a41340800000000000000
+      internalID: 4833671706469415705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_2
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 5162
+        width: 835
+        height: 1304
+      alignment: 9
+      pivot: {x: 0.52233726, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17979cc18cee08b80800000000000000
+      internalID: -8394447162174768783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_3
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 5064
+        width: 1988
+        height: 1484
+      alignment: 9
+      pivot: {x: 0.28024396, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5401534a9c92c6730800000000000000
+      internalID: 3993612915590893637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_5
+      rect:
+        serializedVersion: 2
+        x: 6293
+        y: 4985
+        width: 2801
+        height: 1741
+      alignment: 9
+      pivot: {x: 0.489, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858c7765ddd7b9f0800000000000000
+      internalID: -452649328893459058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_6
+      rect:
+        serializedVersion: 2
+        x: 9456
+        y: 4673
+        width: 2389
+        height: 2053
+      alignment: 9
+      pivot: {x: 0.399, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c748242afb8a0870800000000000000
+      internalID: 8649879940783163329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2800
+        width: 2254
+        height: 2015
+      alignment: 9
+      pivot: {x: 0.3613885, y: 0.0036396945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c4156de0a7ee200800000000000000
+      internalID: 211240436676775058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_20
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 2762
+        width: 2699
+        height: 2039
+      alignment: 9
+      pivot: {x: 0.4641798, y: 0.016599527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302b84672969c840800000000000000
+      internalID: 5244838858961133621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_23
+      rect:
+        serializedVersion: 2
+        x: 10066
+        y: 2925
+        width: 1097
+        height: 1306
+      alignment: 9
+      pivot: {x: 0.356, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d4d487ccd4a7b60800000000000000
+      internalID: 7744588049803988298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_28
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 2919
+        width: 1226
+        height: 1257
+      alignment: 9
+      pivot: {x: 0.359, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaca878cd89f6df0800000000000000
+      internalID: -184760986764653841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_29
+      rect:
+        serializedVersion: 2
+        x: 8290
+        y: 2919
+        width: 1289
+        height: 1228
+      alignment: 9
+      pivot: {x: 0.342, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d0f3d6bbf0c74f0800000000000000
+      internalID: -829770933676864201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_37
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 166
+        width: 939
+        height: 2092
+      alignment: 9
+      pivot: {x: 0.3194471, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855ecc00207834b0800000000000000
+      internalID: -5460491265230613117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_38
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 106
+        width: 1102
+        height: 2335
+      alignment: 9
+      pivot: {x: 0.58755434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f88e63513c9e720800000000000000
+      internalID: 2876044332935712671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_40
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 117
+        width: 1011
+        height: 2235
+      alignment: 9
+      pivot: {x: 0.69997895, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325bd95d650c673b0800000000000000
+      internalID: -5515009214484990685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_41
+      rect:
+        serializedVersion: 2
+        x: 6158
+        y: 174
+        width: 848
+        height: 2011
+      alignment: 9
+      pivot: {x: 0.6398765, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b043d584d906c4730800000000000000
+      internalID: 3984665998956246027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_42
+      rect:
+        serializedVersion: 2
+        x: 8009
+        y: 254
+        width: 717
+        height: 2051
+      alignment: 9
+      pivot: {x: 0.5469935, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad0f041ed063b8b0800000000000000
+      internalID: -5137656242964066899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_ JUN_super_43
+      rect:
+        serializedVersion: 2
+        x: 10290
+        y: 285
+        width: 794
+        height: 2225
+      alignment: 9
+      pivot: {x: 0.60440487, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a8248c41627730800000000000000
+      internalID: 3995362800693716258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec122118a3d180244ac9a71602624fe7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

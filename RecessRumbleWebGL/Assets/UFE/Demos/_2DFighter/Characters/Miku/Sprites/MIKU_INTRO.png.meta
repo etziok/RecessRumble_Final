@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 3d3b9be86bfc12848864c59bd7b6b5e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4975546921421622341
+    second: MIKU_INTRO_0
+  - first:
+      213: 4472454847898520594
+    second: MIKU_INTRO_1
+  - first:
+      213: 7503857624058543363
+    second: MIKU_INTRO_2
+  - first:
+      213: -1418668358045285397
+    second: MIKU_INTRO_3
+  - first:
+      213: -41353000255039851
+    second: MIKU_INTRO_4
+  - first:
+      213: 732470024893399063
+    second: MIKU_INTRO_7
+  - first:
+      213: -5628645985418569717
+    second: MIKU_INTRO_8
+  - first:
+      213: -3595106057349718179
+    second: MIKU_INTRO_10
+  - first:
+      213: 1139084299255158738
+    second: MIKU_INTRO_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MIKU_INTRO_0
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6434
+        width: 768
+        height: 1623
+      alignment: 9
+      pivot: {x: 0.462, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb33061cf6e43fab0800000000000000
+      internalID: -4975546921421622341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_INTRO_1
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 6433
+        width: 1082
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c07f2fcf9511e30800000000000000
+      internalID: 4472454847898520594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_INTRO_2
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 6439
+        width: 1130
+        height: 1377
+      alignment: 9
+      pivot: {x: 0.63315237, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dbd1f70ce032860800000000000000
+      internalID: 7503857624058543363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_INTRO_3
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 6434
+        width: 1209
+        height: 1475
+      alignment: 9
+      pivot: {x: 0.5964822, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3cf9015a0ef4ce0800000000000000
+      internalID: -1418668358045285397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_INTRO_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3499
+        width: 1263
+        height: 2170
+      alignment: 9
+      pivot: {x: 0.31037372, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596d6655aa51d6ff0800000000000000
+      internalID: -41353000255039851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_INTRO_7
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3499
+        width: 1187
+        height: 2446
+      alignment: 9
+      pivot: {x: 0.70075023, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710846a5b914a2a00800000000000000
+      internalID: 732470024893399063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_INTRO_8
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 3501
+        width: 1372
+        height: 2553
+      alignment: 9
+      pivot: {x: 0.74067533, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0892b05c4803e1b0800000000000000
+      internalID: -5628645985418569717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_INTRO_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 557
+        width: 1561
+        height: 2654
+      alignment: 9
+      pivot: {x: 0.77186656, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f90d9a61e9b1ec0800000000000000
+      internalID: -3595106057349718179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MIKU_INTRO_11
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 545
+        width: 748
+        height: 1780
+      alignment: 9
+      pivot: {x: 0.52712476, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d714529227decf00800000000000000
+      internalID: 1139084299255158738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6ce51652a2a67ca4db2398081f6a6e4b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
