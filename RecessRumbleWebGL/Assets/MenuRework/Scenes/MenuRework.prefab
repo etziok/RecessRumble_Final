@@ -1707,17 +1707,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_MethodName: 
+      - m_Target: {fileID: 7863318362844549397}
+        m_MethodName: DesactivarCartelExtra
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 1
-        m_CallState: 0
+        m_CallState: 2
       - m_Target: {fileID: 7863318362844549397}
         m_MethodName: AbrirMenuPrincipal
         m_Mode: 1
@@ -1784,6 +1784,28 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+      - m_Target: {fileID: 4423009392609817487}
+        m_MethodName: Continue
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 1
+      - m_Target: {fileID: 0}
+        m_MethodName: 
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 0
       - m_Target: {fileID: 7767058689397660287}
         m_MethodName: set_enabled
         m_Mode: 6
@@ -2410,6 +2432,7 @@ GameObject:
   - component: {fileID: -6089267711487009671}
   - component: {fileID: 1085173742859301848}
   - component: {fileID: 7863318362844549397}
+  - component: {fileID: 4423009392609817487}
   m_Layer: 5
   m_Name: MenuRework
   m_TagString: Untagged
@@ -2499,8 +2522,22 @@ MonoBehaviour:
   Panel: {fileID: 7114238980141643200}
   activadobotoncontrol: 0
   tagStage: {fileID: 0}
+  ObjetivoCartel: {fileID: 2046911897452338138, guid: 25bd22551ed8944468f9465df28d6485,
+    type: 3}
   MODO: 
   tagEscenario: {fileID: 0}
+--- !u!114 &4423009392609817487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4405602741136331632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d175704347a1fb7429622e1c53b46dea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4405602741203630649
 GameObject:
   m_ObjectHideFlags: 0

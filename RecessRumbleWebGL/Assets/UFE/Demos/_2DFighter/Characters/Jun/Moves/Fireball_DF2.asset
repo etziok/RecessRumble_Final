@@ -3304,8 +3304,7 @@ MonoBehaviour:
         z:
           _serializedValue: 0
     clip: {fileID: 7400000, guid: ff9b21af5c5da5f47acb33b9ee9ff054, type: 2}
-    customHitBoxDefinition: {fileID: 11400000, guid: 898778ff1c5812747a37a19b89a240f2,
-      type: 2}
+    customHitBoxDefinition: {fileID: 0}
     length:
       _serializedValue: 1431655808
     bakeSpeed: 0
@@ -3488,7 +3487,7 @@ MonoBehaviour:
   - castingFrame: 0
     sounds:
     - {fileID: 8300000, guid: 4d403211f8809934dab7d665b461b0e4, type: 3}
-    soundEffectsToggle: 0
+    soundEffectsToggle: 1
   inGameAlert: []
   stanceChanges: []
   cameraMovements: []

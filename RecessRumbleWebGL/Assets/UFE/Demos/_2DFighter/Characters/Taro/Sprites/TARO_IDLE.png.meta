@@ -63,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 95
+  spritePixelsToUnits: 43
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -105,7 +105,7 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: 29
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -180,10 +180,10 @@ TextureImporter:
       name: TARO_IDLE_0
       rect:
         serializedVersion: 2
-        x: 201
-        y: 80
-        width: 1404
-        height: 1929
+        x: 63
+        y: 591
+        width: 622
+        height: 854
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,10 +201,10 @@ TextureImporter:
       name: TARO_IDLE_1
       rect:
         serializedVersion: 2
-        x: 1745
-        y: 84
-        width: 1402
-        height: 1902
+        x: 745
+        y: 593
+        width: 620
+        height: 842
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,10 +222,10 @@ TextureImporter:
       name: TARO_IDLE_2
       rect:
         serializedVersion: 2
-        x: 3283
-        y: 80
-        width: 1403
-        height: 1886
+        x: 1425
+        y: 591
+        width: 620
+        height: 836
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,10 +243,10 @@ TextureImporter:
       name: TARO_IDLE_3
       rect:
         serializedVersion: 2
-        x: 4814
-        y: 80
-        width: 1402
-        height: 1858
+        x: 2101
+        y: 591
+        width: 622
+        height: 824
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +264,10 @@ TextureImporter:
       name: TARO_IDLE_4
       rect:
         serializedVersion: 2
-        x: 6329
-        y: 80
-        width: 1403
-        height: 1886
+        x: 2771
+        y: 591
+        width: 620
+        height: 836
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,10 +285,10 @@ TextureImporter:
       name: TARO_IDLE_5
       rect:
         serializedVersion: 2
-        x: 7861
-        y: 80
-        width: 1402
-        height: 1902
+        x: 3447
+        y: 591
+        width: 620
+        height: 844
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 400000}
   - component: {fileID: 3300000}
   - component: {fileID: 2300000}
-  - component: {fileID: 4942208120771556125}
   m_Layer: 0
   m_Name: Entrada
   m_TagString: Entrada
@@ -87,19 +86,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!114 &4942208120771556125
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 100000}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f9efb9f44379264388e2f1e7cb454c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tagEscenario: {fileID: 0}
 --- !u!1 &100002
 GameObject:
   m_ObjectHideFlags: 0
@@ -403,8 +389,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2350763972237728866}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: -0.877, z: 1.085}
-  m_LocalScale: {x: 0.0479, y: 0.0479, z: 0}
+  m_LocalPosition: {x: 0, y: -0.877, z: 0.599}
+  m_LocalScale: {x: 0.06, y: 0.06, z: 0}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 5
@@ -448,12 +434,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a4fb5a747e551d946ba67f04641b505c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1351fbd4ee94a054faf85f7d191d3457, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 254.34, y: 50}
+  m_Size: {x: 80, y: 25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1

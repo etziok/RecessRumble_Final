@@ -24,18 +24,18 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   selectedStage:
-    stageName: 'CAFE '
+    stageName: AZOTEA
     stageLoadingMethod: 0
-    stagePath: 
-    screenshot: {fileID: 2800000, guid: dd7c0aa0614877247a9787cfd1400696, type: 3}
-    prefab: {fileID: 100000, guid: c2d36dd548fde94418ef797470477ee5, type: 3}
-    music: {fileID: 8300000, guid: 5acb7f152e0ac8841a8d942a31affc76, type: 3}
+    stagePath: Assets/UFE/Demos/Shared_Assets/Stages/Rooftop/Rooftop.unity
+    screenshot: {fileID: 2800000, guid: 702f64d620f51f74aae51966110fa66f, type: 3}
+    prefab: {fileID: 100000, guid: 5520d39aec5319c4f951d422938cca6b, type: 3}
+    music: {fileID: 8300000, guid: d5e75ed7535fcb445a86030fda8601a1, type: 3}
     _groundFriction:
       _serializedValue: 515396075520
     _leftBoundary:
-      _serializedValue: -68719476736
+      _serializedValue: -64424509440
     _rightBoundary:
-      _serializedValue: 73014444032
+      _serializedValue: 68719476736
     position:
       x:
         _serializedValue: 0
@@ -168,9 +168,9 @@ MonoBehaviour:
         showOpponentsInEditor: 0
       showStoryInEditor: 1
     selectableCharactersInStoryMode: 00000000010000000200000003000000
-    selectableCharactersInVersusMode: 00000000010000000300000002000000
+    selectableCharactersInVersusMode: 00000000010000000300000002000000090000000a0000000b0000000c000000
     characterStories:
-      _keys: 000000000100000002000000030000000400000005000000060000000700000008000000
+      _keys: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
       _values:
       - opening: {fileID: 0}
         ending: {fileID: 0}
@@ -225,7 +225,7 @@ MonoBehaviour:
             opponentCharacterIndex: 7
             possibleStagesIndexes: 01000000
           showOpponentsInEditor: 1
-        showStoryInEditor: 1
+        showStoryInEditor: 0
       - opening: {fileID: 0}
         ending: {fileID: 0}
         fightsGroups:
@@ -252,7 +252,7 @@ MonoBehaviour:
             opponentCharacterIndex: 8
             possibleStagesIndexes: 00000000
           showOpponentsInEditor: 1
-        showStoryInEditor: 0
+        showStoryInEditor: 1
       - opening: {fileID: 0}
         ending: {fileID: 0}
         fightsGroups:
@@ -280,6 +280,22 @@ MonoBehaviour:
             possibleStagesIndexes: 00000000
           showOpponentsInEditor: 1
         showStoryInEditor: 1
+      - opening: {fileID: 0}
+        ending: {fileID: 0}
+        fightsGroups: []
+        showStoryInEditor: 0
+      - opening: {fileID: 0}
+        ending: {fileID: 0}
+        fightsGroups: []
+        showStoryInEditor: 0
+      - opening: {fileID: 0}
+        ending: {fileID: 0}
+        fightsGroups: []
+        showStoryInEditor: 0
+      - opening: {fileID: 0}
+        ending: {fileID: 0}
+        fightsGroups: []
+        showStoryInEditor: 0
       - opening: {fileID: 0}
         ending: {fileID: 0}
         fightsGroups: []
@@ -554,7 +570,7 @@ MonoBehaviour:
         _serializedValue: 3435973888
       _shakeCameraDensity:
         _serializedValue: 3435973888
-      editorToggle: 0
+      editorToggle: 1
     parryType: 0
     _parryTiming:
       _serializedValue: 1288490240
@@ -774,7 +790,7 @@ MonoBehaviour:
       hitParticle: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0,
         type: 3}
       killTime: 1.7
-      hitSound: {fileID: 8300000, guid: b6af284677adb624f915881e1a520ebe, type: 3}
+      hitSound: {fileID: 8300000, guid: 4ebeb5a5eb2002241ab6e2b6641874ae, type: 3}
       spawnPoint: 2
       _freezingTime:
         _serializedValue: 644245120
@@ -790,7 +806,7 @@ MonoBehaviour:
         _serializedValue: 5583457280
       _shakeCameraDensity:
         _serializedValue: 4294967296
-      editorToggle: 0
+      editorToggle: 1
     crumpleHit:
       hitParticle: {fileID: 0}
       killTime: 0.6
@@ -1080,7 +1096,7 @@ MonoBehaviour:
   player2_Inputs:
   - inputType: 0
     inputButtonName: P2KeyboardHorizontal
-    engineRelatedButton: 1
+    engineRelatedButton: 0
     joystickAxisName: P2JoystickHorizontal
     cInputPositiveKeyName: P2Right
     cInputPositiveDefaultKey: RightArrow
@@ -1096,7 +1112,7 @@ MonoBehaviour:
     inputViewerIcon6: {fileID: 2800000, guid: 90523496d8897124e989ad256f109d27, type: 3}
   - inputType: 1
     inputButtonName: P2KeyboardVertical
-    engineRelatedButton: 2
+    engineRelatedButton: 3
     joystickAxisName: P2JoystickVertical
     cInputPositiveKeyName: P2Up
     cInputPositiveDefaultKey: UpArrow
@@ -1322,6 +1338,10 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e513f9bf5b9b80647a577d167ad910f6, type: 2}
   - {fileID: 11400000, guid: 6a1e94fd03eba874db4cd18238828b07, type: 2}
   - {fileID: 11400000, guid: 52888b242ce989f4fa21778ce06e3628, type: 2}
+  - {fileID: 11400000, guid: 4e2289263019e404983b3583fe5b7b85, type: 2}
+  - {fileID: 11400000, guid: ccb01f56bebfc4447a2554d86edd3152, type: 2}
+  - {fileID: 11400000, guid: c413f0df542ff5c4181f4ad2d0d41d93, type: 2}
+  - {fileID: 11400000, guid: 00641efa6f6f6314d8667b909719c3ab, type: 2}
   teamModes:
   - modeName: Tag Battle (DBZF\Marvel) - 2D 3v3 Tag Team
     teams:
@@ -1558,7 +1578,7 @@ MonoBehaviour:
       buttonSequence: 0
       aiWeightList: 0
     p2DebugInfo:
-      toggle: 1
+      toggle: 0
       currentMove: 1
       position: 1
       lifePoints: 1
@@ -1761,10 +1781,10 @@ MonoBehaviour:
     enableNetworkSyncTest: 0
     synchronizationMessageFrequency: 2
     synchronizationAction: 1
-  music: 0
-  musicVolume: 0.14982823
+  music: 1
+  musicVolume: 0.03354014
   soundfx: 1
-  soundfxVolume: 0.099999964
+  soundfxVolume: 0.5
   colorStateOne: {r: 1, g: 0, b: 0, a: 1}
   colorIsHit: {r: 1, g: 0, b: 1, a: 1}
   colorBodyCollider: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}

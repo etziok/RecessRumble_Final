@@ -11,6 +11,12 @@ TextureImporter:
   - first:
       213: 415196091488864959
     second: JUN_CROUCH_2
+  - first:
+      213: -1330310701538128532
+    second: JUN_CROUCH_UP_1
+  - first:
+      213: -656679738973759437
+    second: JUN_CROUCH_UP_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -54,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 60
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +102,7 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: 29
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -108,13 +114,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: JUN_CROUCH_1
+      name: JUN_CROUCH_UP_1
       rect:
         serializedVersion: 2
-        x: 1277
-        y: 181
-        width: 851
-        height: 1606
+        x: 668
+        y: 475
+        width: 523
+        height: 988
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -122,20 +128,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fa4a44265d808ae0800000000000000
-      internalID: -1549082870699898128
+      spriteID: c6d4be91779c98de0800000000000000
+      internalID: -1330310701538128532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JUN_CROUCH_2
+      name: JUN_CROUCH_UP_2
       rect:
         serializedVersion: 2
-        x: 2325
-        y: 172
-        width: 734
-        height: 1137
+        x: 1314
+        y: 470
+        width: 451
+        height: 699
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,8 +149,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fba035935a213c500800000000000000
-      internalID: 415196091488864959
+      spriteID: 338d543b14103e6f0800000000000000
+      internalID: -656679738973759437
       vertices: []
       indices: 
       edges: []

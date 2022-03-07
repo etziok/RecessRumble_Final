@@ -6,14 +6,17 @@ using UFE3D;
 using UnityEngine.Analytics;
 
 public class DefaultCharacterSelectionScreen : CharacterSelectionScreen {
+	
 	#region public enum definitions
 	public enum DisplayMode{
 		CharacterPortrait,
 		CharacterGameObject,
 	}
+
 	#endregion
 
 	#region public instance fields
+	
 	public AudioClip moveCursorSound;
 	public AudioClip onLoadSound;
 	public AudioClip music;
@@ -32,6 +35,52 @@ public class DefaultCharacterSelectionScreen : CharacterSelectionScreen {
 	public Animator hudPlayer2;
 	public Animator hudBothPlayers;
 	public Sprite noCharacterSprite;
+
+	// VARIABLES DE JUNCHROMA
+	public static bool DesbloquearJunChroma;
+	public int IndexJunChroma;
+	public Image CharacterJUNCHROMA;
+
+	// VARIABLES DE MARIECHROMA
+	public static bool DesbloquearMarieChroma;
+	public int IndexMarieChroma;
+    public Image CharacterMARIECHROMA;
+
+	//VARIABLES DE MIKU
+	public static bool DesbloquearMikuChroma;
+	public int IndexMikuChroma;
+	public Image CharacterMIKUCHROMA;
+
+	//VARIABLES DE TARO
+	public static bool DesbloquearTaroChroma;
+	public int IndexTaroChroma;
+	public Image CharacterTAROCHROMA;
+
+
+	//VARIABLES CARTEL EXTRA
+	public GameObject CartelFinalExtra;
+
+
+	//VARIABLES SAVE DATA
+
+	public static int JunChroma_On_Off;
+	public static int MarieChroma_On_Off;
+	public static int MikuChroma_On_Off;
+	public static int TaroChroma_On_Off;
+
+    void Start()
+    {
+		JunChroma_On_Off = SaveData.JunChromaSave;
+		MarieChroma_On_Off = SaveData.MarieChromaSave;
+		MikuChroma_On_Off = SaveData.MikuChromaSave;
+		TaroChroma_On_Off = SaveData.TaroChromaSave;
+	}
+	
+
+
+
+
+
 
 	public int defaultCharacterPlayer1 = 0;
 	public int defaultCharacterPlayer2 = 999;
@@ -159,7 +208,62 @@ public class DefaultCharacterSelectionScreen : CharacterSelectionScreen {
 				new UFEScreenExtensions.ActionCallback(this.TryDeselectCharacter)
 			);
 		}
-	}
+		///////////////////////////////////////////////////////////////// ACA SE UPDATEA
+
+		// DESBLOQUEAR A JUN
+
+			if (JunChroma_On_Off == 1)
+			{
+				DesbloquearJunChroma = true;
+				CharacterJUNCHROMA.gameObject.SetActive(true);
+			}
+			if (JunChroma_On_Off == 0)
+			{
+				DesbloquearJunChroma = false;
+				CharacterJUNCHROMA.gameObject.SetActive(false);
+			}
+        // DESBLOQUEAR A MARIE
+
+			if (MarieChroma_On_Off == 1)
+			 {
+			DesbloquearMarieChroma = true;
+			CharacterMARIECHROMA.gameObject.SetActive(true);
+			 }
+			if (MarieChroma_On_Off == 0)
+			{
+			DesbloquearMarieChroma = false;
+			CharacterMARIECHROMA.gameObject.SetActive(false);
+			}
+		// DESBLOQUEAR A MIKU
+
+			if (MikuChroma_On_Off == 1)
+			{
+				DesbloquearMikuChroma = true;
+				CharacterMIKUCHROMA.gameObject.SetActive(true);
+			}
+			if (MikuChroma_On_Off == 0)
+			{
+				DesbloquearMikuChroma = false;
+				CharacterMIKUCHROMA.gameObject.SetActive(false);
+			}
+
+		// DESBLOQUEAR A TARO
+
+			if (TaroChroma_On_Off == 1)
+			{
+			DesbloquearTaroChroma = true;
+			CharacterTAROCHROMA.gameObject.SetActive(true);
+			}
+			if (TaroChroma_On_Off == 0)
+			{
+			DesbloquearTaroChroma = false;
+			CharacterTAROCHROMA.gameObject.SetActive(false);
+			}
+
+
+
+
+		}
 
 	public override void SetHoverIndex(int player, int characterIndex){
 		if (!this.closing){
@@ -351,6 +455,7 @@ public class DefaultCharacterSelectionScreen : CharacterSelectionScreen {
 					}else{
 						this.hudPlayer1.transform.position = this.characters[this.p1HoverIndex].transform.position;
 					}
+					
 				}
 
 				if (this.hudPlayer2 != null){
@@ -382,52 +487,9 @@ public class DefaultCharacterSelectionScreen : CharacterSelectionScreen {
 
         //anterior analytics de modo de juegos EEEEEEEEEEEEEEEEEEEEEEEEEEE
 
-        /*if (UFE.gameMode == GameMode.StoryMode)
-        {
-            Analytics.CustomEvent("level_start", new Dictionary<string, object>{
-            {"modo", GameMode.StoryMode}
-        });
-            //Debug.Log("modo " + GameMode.StoryMode);
-        }
-
-        if (UFE.gameMode == GameMode.TrainingRoom) 
-        {
-            Analytics.CustomEvent("level_start", new Dictionary<string, object>{
-            {"modo", GameMode.TrainingRoom},
-            {"level_index", 0},
-        });
-            //Debug.Log("modo " + GameMode.TrainingRoom);
-        }
-
-        if (UFE.gameMode == GameMode.VersusMode)
-        {
-            Analytics.CustomEvent("level_start", new Dictionary<string, object>{
-            {"modo", GameMode.VersusMode},
-            {"level_index", 0},
-        });
-            //Debug.Log("modo " + GameMode.VersusMode);
-        }
-
-
-        if (UFE.gameMode == GameMode.StoryMode)
-        {
-          Analytics.CustomEvent("level_start", new Dictionary<string, object>{
-          {"protagonista_arcade", this.namePlayer1.text},          
-
-          });
-          //Debug.Log("Protagonista_Arcade " + this.namePlayer1.text); 
-           
-        }
-
-        /*Analytics.CustomEvent("Level_start", new Dictionary<string, object>{
-            {"Protagonista ", this.namePlayer1.text}
-        });*/
-
-
-
-
-
         this.UpdateHud();
+		Debug.Log("characterIndex=" + characterIndex);
+		//Debug.Log("Valor de JunChroma_On_Off:" + JunChroma_On_Off);
 	}
 
 	public override void OnHide(){
@@ -461,19 +523,31 @@ public class DefaultCharacterSelectionScreen : CharacterSelectionScreen {
 			UFE.canvas.worldCamera = Camera.main;
 			UFE.canvas.renderMode = RenderMode.ScreenSpaceCamera;
 		}
-
 		base.OnShow();
 		this.characterButtonsWhiteList.Clear();
+		
 
 		// Set the portraits of the characters
 		if (this.characters != null){
 			// First, update the portraits of the characters until we run out of characters or portrait slots....
-			for (int i = 0; i < this.selectableCharacters.Length && i < this.characters.Length; ++i){
+			for (int i = 0; i < this.selectableCharacters.Length && i < this.characters.Length; ++i) {
 				Image character = this.characters[i];
 				UFE3D.CharacterInfo selectableCharacter = this.selectableCharacters[i];
-
+				Debug.Log("this.characters;"+ this.characters[i]);
+				
 				if (character != null){
 					character.gameObject.SetActive(true);
+
+					//CharacterJUNCHROMA = character;
+					//CharacterMARIECHROMA = character;
+					// SE VAN AGREGANMDO NUEVOISSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSZZZZZZZZZZZZZZZZZZZZZZZZZ
+					CharacterJUNCHROMA=this.characters[4];
+					CharacterMARIECHROMA = this.characters[5];
+					CharacterMIKUCHROMA = this.characters[6];
+					CharacterTAROCHROMA = this.characters[7];
+
+
+
 					character.sprite = Sprite.Create(
 						selectableCharacter.profilePictureSmall,
 						new Rect(0f, 0f, selectableCharacter.profilePictureSmall.width, selectableCharacter.profilePictureSmall.height),
@@ -489,8 +563,9 @@ public class DefaultCharacterSelectionScreen : CharacterSelectionScreen {
 					button.onClick.AddListener(() => {this.TrySelectCharacter(index);});
 					button.targetGraphic = character;
 					this.characterButtonsWhiteList.Add(button);
-				}
+					}			
 			}
+
 
 			// If there are more slots than characters, fill the remaining slots with the "No Character" sprite...
 			// If the "No Character" sprite is undefined, hide the image instead.
@@ -540,6 +615,7 @@ public class DefaultCharacterSelectionScreen : CharacterSelectionScreen {
 	}
 	#endregion
 
+
 	#region protected instance methods
 	protected override int GetMaxCharacterIndex(){
 		return Mathf.Min(this.selectableCharacters.Length, this.characters.Length) - 1;
@@ -562,6 +638,7 @@ public class DefaultCharacterSelectionScreen : CharacterSelectionScreen {
 				this.hudBothPlayers.SetBool("IsSelected", UFE.config.player1Character != null && UFE.config.player2Character != null);
 			}
 		}else{
+			
 			if (this.hudPlayer1 != null){
 				this.hudPlayer1.SetBool("IsHidden", this.p1HoverIndex == this.p2HoverIndex);
 				this.hudPlayer1.SetBool("IsSelected", UFE.config.player1Character != null);
@@ -658,5 +735,6 @@ public class DefaultCharacterSelectionScreen : CharacterSelectionScreen {
 	protected virtual void TrySelectCharacter(AudioClip sound){
 		this.TrySelectCharacter();
 	}
+
 	#endregion
 }

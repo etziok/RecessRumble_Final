@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 11400000}
   - component: {fileID: 7516048182482662173}
   - component: {fileID: 6731583941333150943}
+  - component: {fileID: 4195995446668252690}
   m_Layer: 5
   m_Name: TARO_STORY_JUN_DESPUES
   m_TagString: 3
@@ -138,7 +139,20 @@ MonoBehaviour:
   Panel: {fileID: 0}
   activadobotoncontrol: 0
   tagStage: {fileID: 0}
+  MODO: 
   tagEscenario: {fileID: 0}
+--- !u!114 &4195995446668252690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d175704347a1fb7429622e1c53b46dea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &346447631070330994
 GameObject:
   m_ObjectHideFlags: 0
@@ -646,6 +660,17 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 6731583941333150943}
         m_MethodName: abrirCalificacionesVersus
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 4195995446668252690}
+        m_MethodName: Set_1_Taro
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3644,6 +3669,7 @@ MonoBehaviour:
   Panel: {fileID: 0}
   activadobotoncontrol: 0
   tagStage: {fileID: 0}
+  MODO: 
   tagEscenario: {fileID: 0}
 --- !u!1 &6749305901569038979
 GameObject:

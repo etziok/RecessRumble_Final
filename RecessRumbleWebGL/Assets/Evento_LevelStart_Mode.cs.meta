@@ -3,7 +3,13 @@ guid: 6bf0f44d3083c3c438af84ec09ffa387
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - PanelOp: {instanceID: 0}
+  - Panel: {instanceID: 0}
+  - tagStage: {instanceID: 0}
+  - ObjetivoCartel: {fileID: 8516050903385008982, guid: 25bd22551ed8944468f9465df28d6485,
+      type: 3}
+  - tagEscenario: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

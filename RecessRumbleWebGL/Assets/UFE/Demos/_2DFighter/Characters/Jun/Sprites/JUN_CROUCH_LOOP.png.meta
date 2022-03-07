@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 60
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,7 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: 29
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -123,10 +123,10 @@ TextureImporter:
       name: JUN_CROUCH_LOOP_3
       rect:
         serializedVersion: 2
-        x: 3292
-        y: 174
-        width: 735
-        height: 1144
+        x: 1910
+        y: 471
+        width: 451
+        height: 705
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,10 +144,10 @@ TextureImporter:
       name: JUN_CROUCH_LOOP_4
       rect:
         serializedVersion: 2
-        x: 4195
-        y: 174
-        width: 734
-        height: 1151
+        x: 2464
+        y: 470
+        width: 456
+        height: 708
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,10 +165,10 @@ TextureImporter:
       name: JUN_CROUCH_LOOP_5
       rect:
         serializedVersion: 2
-        x: 5090
-        y: 174
-        width: 735
-        height: 1144
+        x: 3019
+        y: 470
+        width: 453
+        height: 706
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,10 +186,10 @@ TextureImporter:
       name: JUN_CROUCH_LOOP_6
       rect:
         serializedVersion: 2
-        x: 6017
-        y: 176
-        width: 734
-        height: 1143
+        x: 3590
+        y: 472
+        width: 451
+        height: 704
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

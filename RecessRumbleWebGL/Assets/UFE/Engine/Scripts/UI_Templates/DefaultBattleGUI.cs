@@ -382,13 +382,15 @@ public class DefaultBattleGUI : BattleGUI{
 
 		Debug.Log("Juego iniciado");
 
+		Debug.Log("protagonista"+ UFE.config.player1Character.characterName);
+
 
 		//EVENTO LEVEL START__________________________________________***********************************************************************************
 
 
 		//int quenivel =0;
-		
-		
+
+
 		if (UFE.gameMode == GameMode.StoryMode) {modo = "StoryMode"; 
 		levelStartIndex = QueNivel(UFE.config.player1Character.characterName,UFE.config.player2Character.characterName);}
 		if (UFE.gameMode == GameMode.TrainingRoom) { modo = "TrainingRoom"; }

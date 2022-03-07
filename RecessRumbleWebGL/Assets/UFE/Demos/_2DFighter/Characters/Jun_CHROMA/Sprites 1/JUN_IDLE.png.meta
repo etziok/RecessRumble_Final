@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: d596906e4e50d6245bb59f46d5cabbde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8882129114026711089
+    second: JUN_idle_0
+  - first:
+      213: 7744317297217504032
+    second: JUN_idle_1
+  - first:
+      213: -6640177910944938363
+    second: JUN_idle_2
+  - first:
+      213: 6165319305498185353
+    second: JUN_idle_3
+  - first:
+      213: 7991212681993058578
+    second: JUN_idle_4
+  - first:
+      213: -7494322812924943828
+    second: JUN_idle_5
+  - first:
+      213: 9201399019449631219
+    second: JUN_idle_6
+  - first:
+      213: 2315213437683756667
+    second: JUN_idle_7
+  - first:
+      213: -8843057887984547504
+    second: JUN_IDLE_0
+  - first:
+      213: 7275844134031598149
+    second: JUN_IDLE_1
+  - first:
+      213: -6149677638562828208
+    second: JUN_IDLE_2
+  - first:
+      213: 193319763160942275
+    second: JUN_IDLE_3
+  - first:
+      213: 760106360368718117
+    second: JUN_IDLE_4
+  - first:
+      213: -3724396407051763565
+    second: JUN_IDLE_5
+  - first:
+      213: 4526183912085073039
+    second: JUN_IDLE_6
+  - first:
+      213: 2258833252180477425
+    second: JUN_IDLE_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 57
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JUN_IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 525
+        width: 396
+        height: 952
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059077214b5274580800000000000000
+      internalID: -8843057887984547504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 523
+        width: 390
+        height: 964
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542201ad0bdf8f460800000000000000
+      internalID: 7275844134031598149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 509
+        width: 386
+        height: 938
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050bc4625c4f7aaa0800000000000000
+      internalID: -6149677638562828208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_IDLE_3
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 529
+        width: 388
+        height: 946
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c64543ec4fcea200800000000000000
+      internalID: 193319763160942275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 519
+        width: 404
+        height: 950
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ea4125b07c8a00800000000000000
+      internalID: 760106360368718117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 525
+        width: 392
+        height: 957
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39040f25339405cc0800000000000000
+      internalID: -3724396407051763565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 523
+        width: 392
+        height: 940
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c2beb894c30de30800000000000000
+      internalID: 4526183912085073039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JUN_IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 523
+        width: 394
+        height: 952
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5ce0300ecf85f10800000000000000
+      internalID: 2258833252180477425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a7f479a9cf7746d42bdaed57158ef930
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

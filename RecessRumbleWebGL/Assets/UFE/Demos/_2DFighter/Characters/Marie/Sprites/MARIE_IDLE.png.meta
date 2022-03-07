@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -82,10 +82,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 3
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -94,10 +94,10 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 3
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -168,8 +168,8 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: 12
-    textureCompression: 1
+    textureFormat: 29
+    textureCompression: 3
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -183,12 +183,12 @@ TextureImporter:
       name: MARIE_IDLE_0
       rect:
         serializedVersion: 2
-        x: 164
-        y: 127
-        width: 883
-        height: 1847
-      alignment: 9
-      pivot: {x: 0.57429403, y: 0.00028993352}
+        x: 72
+        y: 552
+        width: 449
+        height: 939
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: MARIE_IDLE_1
       rect:
         serializedVersion: 2
-        x: 1347
-        y: 127
-        width: 875
-        height: 1839
-      alignment: 9
-      pivot: {x: 0.57159024, y: 0.00013361605}
+        x: 672
+        y: 552
+        width: 446
+        height: 935
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -225,12 +225,12 @@ TextureImporter:
       name: MARIE_IDLE_2
       rect:
         serializedVersion: 2
-        x: 2500
-        y: 124
-        width: 867
-        height: 1832
-      alignment: 9
-      pivot: {x: 0.5677174, y: -0.00013406412}
+        x: 1256
+        y: 551
+        width: 444
+        height: 931
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -246,12 +246,12 @@ TextureImporter:
       name: MARIE_IDLE_3
       rect:
         serializedVersion: 2
-        x: 3659
-        y: 127
-        width: 862
-        height: 1825
-      alignment: 9
-      pivot: {x: 0.5598456, y: 0.00000003762441}
+        x: 1848
+        y: 552
+        width: 440
+        height: 936
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -267,12 +267,12 @@ TextureImporter:
       name: MARIE_IDLE_4
       rect:
         serializedVersion: 2
-        x: 4793
-        y: 116
-        width: 856
-        height: 1826
-      alignment: 9
-      pivot: {x: 0.56038547, y: -0.000000012534602}
+        x: 2424
+        y: 544
+        width: 437
+        height: 931
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -288,12 +288,12 @@ TextureImporter:
       name: MARIE_IDLE_5
       rect:
         serializedVersion: 2
-        x: 5868
-        y: 127
-        width: 852
-        height: 1833
-      alignment: 9
-      pivot: {x: 0.5536313, y: 0.000000016648979}
+        x: 2971
+        y: 552
+        width: 436
+        height: 932
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -309,12 +309,12 @@ TextureImporter:
       name: MARIE_IDLE_6
       rect:
         serializedVersion: 2
-        x: 6982
-        y: 127
-        width: 864
-        height: 1839
-      alignment: 9
-      pivot: {x: 0.5653302, y: 0.00022488252}
+        x: 3536
+        y: 552
+        width: 440
+        height: 935
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

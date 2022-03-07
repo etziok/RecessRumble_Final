@@ -73,13 +73,7 @@ public class DefaultLoadingBattleScreen : LoadingBattleScreen{
 
 			if (this.namePlayer2 != null){
 				this.namePlayer2.text = UFE.config.player2Character.characterName;
-				/*
-            Analytics.CustomEvent("level_start", new Dictionary<string, object>{     //-------------------------------------------------->PLAYER2
-            {"enemigo", this.namePlayer2.text}
-
-            });
-
-                //Debug.Log("Personaje2 Elegido= " + this.namePlayer2.text); ///Personaje2 Elegido  */
+		
 			}
 		}
 

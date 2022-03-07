@@ -384,8 +384,8 @@ MonoBehaviour:
           _serializedValue: 0
     hitToggle: 1
     damageOptionsToggle: 0
-    hitStunOptionsToggle: 1
-    forceOptionsToggle: 1
+    hitStunOptionsToggle: 0
+    forceOptionsToggle: 0
     opponentForceToggle: 1
     selfForceToggle: 0
     stageReactionsToggle: 0
@@ -457,7 +457,7 @@ MonoBehaviour:
     activeFramesBegin: 0
     activeFramesEnds: 7
     bodyPart: 0
-    hitBoxDefinitionIndex: 4
+    hitBoxDefinitionIndex: 0
     shape: 0
     rect:
       serializedVersion: 2

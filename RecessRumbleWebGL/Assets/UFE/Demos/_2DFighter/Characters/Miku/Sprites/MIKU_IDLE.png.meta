@@ -69,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -85,24 +85,24 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -111,10 +111,10 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 4096
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: 29
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 1
     androidETC2FallbackOverride: 0
@@ -126,12 +126,12 @@ TextureImporter:
       name: MIKU_IDLE_0
       rect:
         serializedVersion: 2
-        x: 423
-        y: 379
-        width: 753
-        height: 1599
+        x: 95
+        y: 568
+        width: 361
+        height: 761
       alignment: 9
-      pivot: {x: 0.40063784, y: 0}
+      pivot: {x: 0.4702954, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,12 +147,12 @@ TextureImporter:
       name: MIKU_IDLE_1
       rect:
         serializedVersion: 2
-        x: 1517
-        y: 377
-        width: 765
-        height: 1577
+        x: 616
+        y: 566
+        width: 363
+        height: 754
       alignment: 9
-      pivot: {x: 0.37713552, y: 0}
+      pivot: {x: 0.45401984, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,12 +168,12 @@ TextureImporter:
       name: MIKU_IDLE_2
       rect:
         serializedVersion: 2
-        x: 2611
-        y: 379
-        width: 793
-        height: 1557
+        x: 1136
+        y: 567
+        width: 378
+        height: 742
       alignment: 9
-      pivot: {x: 0.36665797, y: 0}
+      pivot: {x: 0.445773, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,12 +189,12 @@ TextureImporter:
       name: MIKU_IDLE_3
       rect:
         serializedVersion: 2
-        x: 3660
-        y: 381
-        width: 808
-        height: 1575
+        x: 1632
+        y: 568
+        width: 390
+        height: 752
       alignment: 9
-      pivot: {x: 0.3642862, y: 0}
+      pivot: {x: 0.4354918, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,12 +210,12 @@ TextureImporter:
       name: MIKU_IDLE_4
       rect:
         serializedVersion: 2
-        x: 4716
-        y: 359
-        width: 715
-        height: 1586
+        x: 2142
+        y: 558
+        width: 339
+        height: 755
       alignment: 9
-      pivot: {x: 0.43344897, y: 0}
+      pivot: {x: 0.49867558, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,12 +231,12 @@ TextureImporter:
       name: MIKU_IDLE_5
       rect:
         serializedVersion: 2
-        x: 5819
-        y: 381
-        width: 715
-        height: 1599
+        x: 2664
+        y: 568
+        width: 344
+        height: 761
       alignment: 9
-      pivot: {x: 0.42353994, y: 0}
+      pivot: {x: 0.5073008, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,12 +252,12 @@ TextureImporter:
       name: MIKU_IDLE_6
       rect:
         serializedVersion: 2
-        x: 6925
-        y: 381
-        width: 712
-        height: 1601
+        x: 3195
+        y: 568
+        width: 338
+        height: 762
       alignment: 9
-      pivot: {x: 0.43207747, y: 0}
+      pivot: {x: 0.5092051, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,12 +273,12 @@ TextureImporter:
       name: MIKU_IDLE_7
       rect:
         serializedVersion: 2
-        x: 8041
-        y: 381
-        width: 710
-        height: 1599
+        x: 3727
+        y: 568
+        width: 337
+        height: 762
       alignment: 9
-      pivot: {x: 0.43188545, y: 0}
+      pivot: {x: 0.49926034, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

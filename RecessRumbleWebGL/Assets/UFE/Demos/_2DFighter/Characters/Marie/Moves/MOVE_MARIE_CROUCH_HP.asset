@@ -448,7 +448,7 @@ MonoBehaviour:
     activeFramesBegin: 3
     activeFramesEnds: 9
     bodyPart: 0
-    hitBoxDefinitionIndex: 4
+    hitBoxDefinitionIndex: 0
     shape: 0
     rect:
       serializedVersion: 2
